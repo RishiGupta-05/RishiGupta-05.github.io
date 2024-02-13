@@ -108,7 +108,7 @@ b, strong {
 }
 
 .animated-info {
-  display: inline-block;
+  display:block;
   vertical-align: top;
   margin-top: 5px;
   min-width: 260px;
