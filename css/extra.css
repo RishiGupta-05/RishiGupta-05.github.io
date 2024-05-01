@@ -1,6 +1,6 @@
 .profile-logo{
-    width: 50px;
-   padding: 5%;
+width: 50px;
+   padding: 10%;
    margin-left: auto;
    margin-right: auto;
 }
@@ -8,4 +8,4 @@
 .profile-links{
     display: inline-block;
     margin: 0 auto;
-    text-align: center;
+    text-align: center;}
